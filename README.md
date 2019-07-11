@@ -1,8 +1,11 @@
 ﻿# BankApp
-## Node.js app written TypeScript
+ 
+Node.js app written with TypeScript
 
-## Install dependencies `npm install`
-## Run test with `npm test`
+## To Run Test
+1. `npm install`
+2. `npm test`
 
-## Using Mocha Chai for Test
+
+##Uses Mocha Chai for Test
 
